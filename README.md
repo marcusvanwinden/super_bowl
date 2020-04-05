@@ -1,3 +1,3 @@
 # Super Bowl
 
-[super_bowl.ipynb](test_dir)
+[Click here for the script](super_bowl.ipynb)
