@@ -1,3 +1,3 @@
 # Super Bowl
 
-[Click here to view the analysis](super_bowl.ipynb)
+[Click here to view project](super_bowl.ipynb)
