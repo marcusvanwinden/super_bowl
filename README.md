@@ -1,3 +1,3 @@
 # Super Bowl
 
-[Click here for the script](super_bowl.ipynb)
+[Click here to view the analysis](super_bowl.ipynb)
